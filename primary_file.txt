@@ -1,3 +1,7 @@
 This is the first file added to my project.
 
 And it comes before all other files.
+
+This is new now.
+
+And this is new now as well.
