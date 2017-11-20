@@ -5,3 +5,6 @@ And it comes before all other files.
 This is new now.
 
 And this is new now as well.
+
+
+THIS IS NEW, DONE FOR THE NEW FEATURE BRANCH
