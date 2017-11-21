@@ -1,6 +1,6 @@
 TITLE
 
-<strong>Git is great.</strong>
+<strong>Git is really great.</strong>
 
 This is the first file added to my project.
 
