@@ -1,5 +1,7 @@
 TITLE
 
+<em>Git is great.</em>
+
 This is the first file added to my project.
 
 And it comes before all other files.
